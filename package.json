@@ -48,7 +48,7 @@
     "lodash.pick": "4.4.0",
     "lodash.set": "4.3.2",
     "lodash.xor": "4.5.0",
-    "yargs": "11.0.0",
+    "yargs": "12.0.1",
     "nock": "9.2.3"
   },
   "peerDependencies": {}
