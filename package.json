@@ -41,7 +41,7 @@
   "dependencies": {
     "csv-parse": "2.2.0",
     "csv-write-stream": "2.0.0",
-    "intercom-client": "2.9.1",
+    "intercom-client": "2.10.5",
     "js-yaml": "3.11.0",
     "lodash.get": "4.4.2",
     "lodash.merge": "4.6.1",
